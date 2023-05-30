@@ -28,6 +28,5 @@ jobs:
     - name: Android Builder
   uses: b4s36t4/Android-Action@0.0.1
 
-Learn more about this action in b4s36t4/Android-Action
 
       
